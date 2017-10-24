@@ -1,8 +1,7 @@
 # Project: Logs Analysis 
 
 This project is for the Nanodegree _Intro to Programming_. I chose 
-_Back-End Development_ as my specialization. For the final project you are to design a reporting tool that prints out reports based on questions given by Udacity. The project requirements can be found at: 
-	[Requirements](https://review.udacity.com/#!/rubrics/277/view) 
+_Back-End Development_ as my specialization. For the final project you are to design a reporting tool that prints out reports based on questions given by Udacity.
 
 **Install Prerequisites**
 
