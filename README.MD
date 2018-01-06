@@ -8,7 +8,7 @@ For this project I designed a reporting tool that prints out reports based on qu
 
 *Question 3* wants you to find the day which led to more than 1% of request errors. I was able to solve this answer by using arthimetic operations, which allowed me to discover the days that led to more than 1% of errors.
 
-![News.png]
+![Pic](News.png)
 
 **Install Prerequisites**
 
