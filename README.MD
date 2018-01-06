@@ -1,7 +1,14 @@
 # Project: Logs Analysis 
 
-This project is for the Nanodegree _Intro to Programming_. I chose 
-_Back-End Development_ as my specialization. For the final project you are to design a reporting tool that prints out reports based on questions given by Udacity.
+For this project I designed a reporting tool that prints out reports based on questions given by Udacity. The Database has over 100,000 records which need to be filtered and cleaned in order to print out the correct answer. 
+
+*Question 1* wants you to find the most popular three articles of all time. To solve this problem, I had to use a join, replace, where, and group by commands.
+
+*Question 2* wants you to find the most popular three authors of all time. I solved this problem by using two joins, where, and a group by command. 
+
+*Question 3* wants you to find the day which led to more than 1% of request errors. I was able to solve this answer by using arthimetic operations, which allowed me to discover the days that led to more than 1% of errors.
+
+![News.png]
 
 **Install Prerequisites**
 
